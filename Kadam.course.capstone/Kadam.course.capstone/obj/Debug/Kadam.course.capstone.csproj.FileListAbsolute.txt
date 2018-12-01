@@ -1,0 +1,10 @@
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.csprojAssemblyReference.cache
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.Form1.resources
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.Properties.Resources.resources
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.csproj.GenerateResource.cache
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.csproj.CoreCompileInputs.cache
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\bin\Debug\Kadam.course.capstone.exe.config
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\bin\Debug\Kadam.course.capstone.exe
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\bin\Debug\Kadam.course.capstone.pdb
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.exe
+C:\Users\ameya\source\repos\Kadam.course.capstone\Kadam.course.capstone\obj\Debug\Kadam.course.capstone.pdb
